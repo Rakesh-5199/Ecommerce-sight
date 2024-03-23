@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "productName": "One Plus 12r",
+      "src": "https://www.thetechoutlook.com/wp-content/uploads/2024/03/Nokia-G42-5G-450x300.jpg",
+      "rate": "39999",
+      "rateing": 4
+    },
+    {
+        "id": 2,
+        "productName": "Nothing phone 2A",
+        "src": "https://www.thetechoutlook.com/wp-content/uploads/2024/03/Nothing-Phone-2a-450x300.jpg",
+        "rate": "27999",
+        "rateing": 4
+      },
+      {
+        "id": 3,
+        "productName": "Vivo T2X 5g",
+        "src": "https://www.thetechoutlook.com/wp-content/uploads/2023/05/Untitled-design-94-450x300.jpg",
+        "rate": "20000",
+        "rateing": 4
+      },
+      {
+        "id": 4,
+        "productName": "Samsung A34 5g",
+        "src": "https://cdn.lotuselectronics.com/webpimages/604891IM.webp",
+        "rate": "25000",
+        "rateing": 3
+      },
+      {
+        "id": 5,
+        "productName": "Motorola Edge 30",
+        "src": "https://www.thetechoutlook.com/wp-content/uploads/2022/12/Motorola-Edge-30-Ultra-1-450x300.jpg",
+        "rate": "55000",
+        "rateing": 4
+      },
+      {
+        "id": 6,
+        "productName": "iPhone 13",
+        "src": "https://bulkli.com/wp-content/uploads/2021/11/apple-iphone-13-Bulkli.jpg",
+        "rate": "49499",
+        "rateing": 4
+      },
+      {
+        "id": 7,
+        "productName": "Samsung M33 5g",
+        "src": "https://bulkli.com/wp-content/uploads/2022/04/Samsung-Galaxy-M33-5G-1.jpg",
+        "rate": "25000",
+        "rateing": 4
+      },
+      {
+        "id": 8,
+        "productName": "iPhone 15 Pro Max",
+        "src":"https://www.thetechoutlook.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max-1-450x300.jpg",
+        "rate": "150000",
+        "rateing": 5
+      }
+  ]
+  
